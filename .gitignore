@@ -1,4 +1,8 @@
 .vscode
+*.dll
+*.exe
+*.o
+*.ini
 ASM
 Ruby/
 Go/
